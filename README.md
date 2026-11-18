@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👨‍💻 Administrador IT | C/C++ Developer
 
 ### 💻 Systems · 🔐 Cybersecurity · ⚙️ Development · 🐧 Linux
